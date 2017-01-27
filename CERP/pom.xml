@@ -7,15 +7,6 @@
   <dependencies>
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
     <dependency>
         <groupId>org.uncommons</groupId>
         <artifactId>reportng</artifactId>
