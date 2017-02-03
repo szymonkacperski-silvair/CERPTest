@@ -8,12 +8,6 @@
 
         <artifactId>selenium-java</artifactId>
         <version>2asdf
-          asdfasf.42.2</version>
-         
-         
-
-         
-    </dependency>  
 <dependency>
   <groupId>junit</groupId>
   <artifactId>junit</artifactId>
