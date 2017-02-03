@@ -17,12 +17,7 @@ import junit.framework.TestSuite;
     {
         return new TestSuite( AppTest.class );
     }
-
-    /**
-     * Rigourous Test :-)
-     */
-    public void testApp()
-    {
+asdfadsf
         assertTrue( true );
     }
 }
