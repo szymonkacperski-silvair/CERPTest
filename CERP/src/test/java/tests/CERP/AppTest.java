@@ -3,13 +3,6 @@ package tests.CERP;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-as
-df
- * Unit test for simple App.
- */asdfasdf
- ad
- sf
- afdasdf
 public class AppTest 
     extends TestCase
 {
